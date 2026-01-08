@@ -12,9 +12,6 @@ End-to-end pipeline: Reddit data extraction → cleaning → deduplication → l
 
 - Python 3.9+
 - PRAW (Reddit API)
-- scikit-learn, XGBoost, LightGBM
-- pandas, numpy
-- Jupyter notebooks
 
 ## Setup
 ```bash
